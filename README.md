@@ -115,4 +115,4 @@ ThinkingSOC transforms SIEM-based security operations by combining advanced AI-d
 
 ---
 
-**Note:** Although ThinkingSOC is engineered to work with any SIEM platform, its current integration is implemented with Splunk. Future development plans will focus on extending compatibility to include other leading SIEM solutions.
+> **Note:** Although ThinkingSOC is engineered to work with any SIEM platform, its current integration is implemented with Splunk. Future development plans will focus on extending compatibility to include other leading SIEM solutions.
