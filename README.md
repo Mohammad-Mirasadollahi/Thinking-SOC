@@ -81,6 +81,7 @@ With the rapid integration of AI into security operations, the traditional SOC m
   - **AI-Driven Cyber Threat Strategist (AI-CTS)**
   - **AI-Driven Strategic Threat Analyst (AI-STA)**
   - **AI-Driven SOC Manager (AI-SOCM)**
+  - **LLM Cybersecurity Engineer**
   
   These roles are tailored to bridge the gap between traditional security functions and AI-powered operations, ensuring a more dynamic and efficient security posture.
 
